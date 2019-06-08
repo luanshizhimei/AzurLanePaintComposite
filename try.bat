@@ -1,0 +1,1 @@
+AzurLanePaintComposite.exe F:\碧蓝航线提取\02.提取\Painting\Sprite\z23_4.png F:\碧蓝航线提取\02.提取\Painting\Mesh\z23_4-mesh.obj
